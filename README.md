@@ -62,3 +62,7 @@ By continuously monitoring fraud trends and retraining the model with new data, 
 This project is licensed under the **MIT License**, allowing free use and modification for research and development purposes.
 
 ---
+
+## 👨‍💻 Author
+
+🔗 Meghana - [LinkedIn](https://www.linkedin.com/in/bgem/)
